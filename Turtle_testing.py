@@ -11,7 +11,7 @@ spiral = turtle.Turtle()
 spiral.speed(0)  # Set speed to the fastest
 
 # List of colors to choose from
-colors = ["red", "orange", "yellow", "green", "blue", "purple", "pink", "cyan"]
+colors = ["red", "orange", "yellow", "green", "blue", "purple", "pink", "sayian"]
 
 # Draw the spiral
 for i in range(100):  # Number of loops for the spiral
